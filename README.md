@@ -2,6 +2,7 @@
 
 <h2> 웹 쇼핑몰 사이트 구현
 <h3> 설명
+  
 * https://github.com/hyojin-ki/web-shopping-mall 백업 파일!  
 * 실제 사이트를 참고하여 웹 쇼핑몰을 구현한 team project (semi-project)
 * 참고 사이트 : https://www.dailylook.kr/
